@@ -65,7 +65,7 @@
   --offline-color: #808080;
   --main-font: gg sans;
   --code-font: Consolas;
-  --channels-width: 212px;
+  --channels-width: 250px;
   --members-width: 190px;
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
